@@ -49,4 +49,6 @@ const InputForm = () => {
         </div>
     )
 }
+
+
 export default InputForm;
